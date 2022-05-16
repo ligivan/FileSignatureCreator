@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileSignatureCreator.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Documents\\IMG_3594.MP4 1024"
+    }
+  }
+}
